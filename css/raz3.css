@@ -1,0 +1,270 @@
+@media (max-width: 1600px) {
+    .main_konkurs_body_img {
+        margin-left: -60px;
+    }
+    .main_konkurs_body_form_input2 {
+        width: 400px;
+    }
+    .main_konkurs_body_form_input1 {
+        width: 400px;
+    }
+}
+
+
+
+
+@media (max-width: 1480px) {
+    .main_konkurs_body_img {
+        margin-left: -110px;
+    }
+    .main_konkurs_body_form_input2 {
+        width: 350px;
+    }
+    .main_konkurs_body_form_input1 {
+        width: 350px;
+    }
+}
+
+
+
+@media (max-width: 1420px) {
+    .main_konkurs_body_img_img1 {
+        width: 360px;
+        height: 356px;
+    }
+    .main_konkurs_body_img_img2 {
+        width: 360px;
+        height: 356px;
+    }   
+
+    .main_konkurs_body_img {
+       
+       margin-left: -150px;
+    }
+    .main_konkurs_zag_info_text2 {
+        width: 1000px;
+    }
+
+}
+
+
+
+
+@media (max-width: 1200px) {
+    
+    .main_konkurs_body_img {
+      
+       margin-left: -150px;
+    }
+    .main_konkurs_zag_info_text2 {
+        width: 900px;
+    }
+
+}
+
+
+
+
+@media (max-width: 1140px) {
+    
+    .main_konkurs_body_img {
+      margin-top: 350px;
+       margin-left: -500px;
+    }
+    .main_konkurs_body_img_img2 {
+        margin-left: 0px;
+    } 
+    .main_konkurs_zag_info_text2 {
+        width: 800px;
+    }
+}
+
+
+
+
+@media (max-width: 1024px) {
+    
+    .main_konkurs {
+        padding-left: 6%;
+    }
+    .main_konkurs_zag_glav {
+        display: block;
+    }
+    .main_konkurs_body_img {
+        display: block;
+        width: 460px;
+        height: 858px;
+        margin-top: -400px;
+       margin-left: 0px;
+    }
+    .main_konkurs_zag_glav_logo {
+        margin-top: 55px;
+    }
+    .main_konkurs_zag_glav_text1 {
+        width: 460px;
+        margin-top: 15px;
+    }
+    .main_konkurs_body {
+        margin-left: 22px;
+        margin-top: 0px;
+    }
+    .main_konkurs_zag_info {
+        margin-left: 22px;
+    }
+    .main_konkurs_zag_info_text2 {
+        width: 460px;
+    }
+}
+
+
+
+@media (max-width: 800px) {
+    
+    .main_konkurs_zag_info_text2 {
+        width: 400px;
+    }
+    .main_konkurs_body_img {
+        
+       margin-left: -60px;
+    }
+}
+
+
+
+
+@media (max-width: 750px) {
+    .main_konkurs_body_img {
+        width: 460px;
+         height: 130px;
+         display: flex;
+         margin-top: -550px;
+         margin-left: -525px;
+    }
+    .main_konkurs_zag_glav_logo {
+        margin-top: 25px;
+    }
+    .main_konkurs_zag_glav_text1 {
+        margin-top: 300px;
+        width: 650px;
+    }
+    .main_konkurs_zag_info_text2 {
+        width: 600px;
+    }
+    .main_konkurs_body_img_img1 {
+        width: 260px;
+        height: 256px;
+    }
+    .main_konkurs_body_img_img2 {
+        width: 260px;
+        height: 256px;
+    }   
+    
+   
+}
+
+
+
+@media (max-width: 650px) {
+    .main_konkurs_body_img {
+        margin-top: -625px;
+        margin-left: -525px;
+    }
+    .main_konkurs_zag_glav_text1 {
+        font-size: 50px;
+        width: 450px;
+    }
+    .main_konkurs_zag_info_text2 {
+        font-size: 16px;
+        width: 450px;
+    }
+}
+
+
+
+
+@media (max-width: 525px) {
+    .main_konkurs_body_img_img1 {
+        width: 210px;
+        height: 206px;
+    }
+    .main_konkurs_body_img_img2 {
+        width: 210px;
+        height: 206px;
+    }   
+    .main_konkurs_zag_glav_text1 {
+        font-size: 38px;
+    }
+    .main_konkurs_body_img {
+        margin-top: -565px;
+        margin-left: -500px;
+    }
+    .main_konkurs_zag_glav_text1 {
+        margin-top: 250px;
+    }
+    .main_konkurs_zag_info_text2 {
+        width: 350px;
+    }
+}
+
+
+
+
+
+@media (max-width: 420px) {
+    .main_konkurs_zag_glav_text1 {
+        font-size: 30px;
+        width: 296px;
+    }
+    .main_konkurs_zag_info_text2 {
+        font-size: 16px;
+        width: 296px;
+    }
+    .main_konkurs_body_img_img1 {
+        width: 132px;
+        height: 130px;
+    }
+    .main_konkurs_body_img_img2 {
+        width: 132px;
+        height: 130px;
+    }   
+    .main_konkurs_body_img {
+        margin-top: -525px;
+        margin-left: -400px;
+    }
+    .main_konkurs_zag_glav_logo {
+        width: 62px;
+        height: 62px;
+    }
+    .main_konkurs_zag_glav_text1 {
+        margin-top: 175px;
+    }
+    .main_konkurs_body_form_input2 {
+        width: 296px;
+    }
+    .main_konkurs_body_form_input1 {
+        width: 296px;
+    }
+    .main_konkurs {
+        padding-left: 2%;
+    }
+}
+
+
+
+
+@media (max-width: 320px) {
+    .main_konkurs {
+        padding-left: 0px;
+    }
+    .main_konkurs_body_img {
+        margin-top: -525px;
+        margin-left: -350px;
+    }
+    .main_konkurs_body_form_sogl_pers {
+        width: 250px;
+    }
+    .main_konkurs_zag_glav_logo {
+        margin-left: 12px;
+    }
+}
+

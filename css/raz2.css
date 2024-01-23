@@ -1,0 +1,266 @@
+@media (max-width: 1536px) {
+    .main_nait_body_img3 {
+        width: 900px;
+    }
+}
+
+
+
+@media (max-width: 1370px) {
+    .main_nait_body_img2 {
+        width: 400px;
+    }
+    .main_nait_body_img1 {
+        width: 400px;
+    }
+    
+}
+
+
+
+@media (max-width: 1290px) {
+    .main_nait_body_img2 {
+        width: 300px;
+    }
+    .main_nait_body_img1 {
+        width: 300px;
+    }
+    .main_nait_body_img3 {
+        width: 800px;
+    }
+    .main_nait_zag_text2 {
+        width: 800px;
+    }
+    .main_nait_zag_text1 {
+        width: 600px;
+    }
+}
+
+
+
+
+
+
+@media (max-width: 1024px) {
+    .main_nait_body_img2 {
+        width: 456px;
+        height: 196px;
+    }
+    .main_nait_body_img1 {
+        width: 450px;
+        height: 196px;
+    }.main_nait_body {
+        width: 952px;
+        height: 652px;
+    }
+    .main_nait_body_img3 {
+        width: 1150px;
+        height: 424px;
+        margin-top: 228px;
+        margin-left: -900px;
+       
+    }
+    .main_nait_body_right {
+        display: block;
+    }
+    .main_nait_body_left {
+        display: flex;
+    }
+    .main_nait_body_img2 {
+        margin-top: 0px;
+    }
+    .main_nait_zag_text2 {
+        width: 900px;
+    }
+    .main_nait_zag_text1 {
+        width: 600px;
+    }
+    .main_nait {
+        padding-left: 36px;
+    }
+}
+
+
+
+@media (max-width: 950px) {
+    .main_nait_body_img2 {
+        width: 350px;
+        height: 196px;
+    }
+    .main_nait_body_img1 {
+        width: 350px;
+        height: 196px;
+    }
+    .main_nait_body_img3 {
+        width: 956px;
+        height: 424px;
+        margin-top: 228px;
+        margin-left: -700px;
+       
+    }
+    
+    .main_nait_zag_text2 {
+        width: 700px;
+    }
+   
+}
+
+
+
+
+
+@media (max-width: 760px) {
+    .main_nait_body_img2 {
+        width: 300px;
+        height: 150px;
+    }
+    .main_nait_body_img1 {
+        width: 300px;
+        height: 150px;
+    }
+    .main_nait_zag_text1 {
+        font-size: 52px;
+    }
+    .main_nait_body_img3 {
+        width: 875px;
+        height: 375px;
+        margin-top: 175px;
+        margin-left: -600px;
+    }
+    .main_nait_zag_text2 {
+        width: 600px;
+    }
+    .main_nait_obvodka {
+        margin-top: -70px;
+
+    }
+}
+
+
+
+
+
+@media (max-width: 670px) {
+    .main_nait_body_img2 {
+        width: 250px;
+        height: 125px;
+    }
+    .main_nait_body_img1 {
+        width: 250px;
+        height: 125px;
+    }
+    .main_nait_zag_text1 {
+        font-size: 52px;
+    }
+    .main_nait_body_img3 {
+        width: 750px;
+        height: 275px;
+        margin-top: 150px;
+        margin-left: -500px;
+    }
+    .main_nait_zag_text2 {
+        width: 500px;
+    }
+    .main_nait_obvodka {
+        margin-top: -140px;
+
+    }
+}
+
+
+
+
+
+@media (max-width: 560px) {
+    .main_nait_body_img2 {
+        width: 400px;
+        
+        height: 150px;
+    }
+    .main_nait_body_img1 {
+        width: 400px;
+        height: 150px;
+    }
+    .main_nait_zag_text1 {
+        font-size: 46px;
+        width: 500px;
+    }
+    .main_nait_body_img3 {
+        width: 650px;
+        height: 300px;
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+    .main_nait_zag_text2 {
+        width: 400px;
+    }
+    .main_nait_obvodka {
+        margin-top: 20px;
+
+    }
+    .main_nait_body {
+        display: block;
+        width: 420px;
+    }
+    .main_nait_body_right {
+        display: block;
+    }
+    .main_nait_body_left {
+        display: block;
+    }
+}
+
+
+
+
+@media (max-width: 470px) {
+    .main_nait_body_img2 {
+        width: 300px;
+        
+        height: 150px;
+    }
+    .main_nait_body_img1 {
+        width: 300px;
+        height: 150px;
+    }
+    .main_nait_zag_text1 {
+        font-size: 36px;
+        width: 400px;
+    }
+    .main_nait_body_img3 {
+        width: 560px;
+        height: 200px;
+    }
+    .main_nait_zag_text2 {
+        width: 350px;
+    }
+    .main_nait_obvodka {
+        margin-top: -140px;
+
+    }
+}
+
+
+
+@media (max-width: 320px) {
+    .main_nait_body_img2 {
+        margin-left: -25px;
+        width: 320px;
+        height: 196px;
+    }
+    .main_nait_body_img1 {
+        width: 320px;
+        height: 196px;
+        margin-left: -25px;
+    }
+    .main_nait_obvodka {
+        margin-top: 180px;
+
+    }
+    .main_nait_body_img3 {
+        width: 525px;
+        height: 424px;
+        margin-left: -12px;
+        
+    }
+}

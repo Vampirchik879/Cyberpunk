@@ -1,0 +1,442 @@
+* {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+body,
+h1,
+a {
+    margin: 0;
+}
+.wrapper {
+    overflow: hidden;
+    letter-spacing: 1px;
+    font-family: 'Roboto', sans-serif;
+}
+.header {
+    height: 1000px;
+    width: 100%;
+    background-image: url('../img/11.jpg');
+    padding-left: 17%;
+    padding-top: 20px;
+    display: flex;
+}
+.header_head_nav {
+    margin-left: 901px;
+   display: flex;
+   margin-top: -52px;
+}
+.header_head_nav_vk {
+    margin-left: 15px;
+}
+.header_head_nav_facebook {
+    margin-left: 15px;
+}
+.header_head_nav_twitter {
+    margin-left: 15px;
+}
+.header_head_nav_twitch {
+    margin-left: 15px;
+}
+.header_head_nav_insta {
+    margin-left: 15px;
+}
+.header_body {
+    margin-top: 611px;
+    width: 624px;
+    height: 369px;
+    background-image: url('../img/Rectangle 59.svg');
+    margin-left: -575px;
+}
+.header_body_text {
+    font-family: "Archangelsk", sans-serif;
+    font-size: 62px;
+    font-weight: 400;
+    padding-top: 10px;
+    padding-left: 70px;
+    width: 584px;
+}
+.header_body_button {
+    background: black;
+    width: 272px;
+    height: 78px;
+    font-family: "Roboto", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    color: #F8F200;
+    margin-left: 70px;
+    margin-top: -50px;
+    border: none;
+}
+
+
+
+
+.main_nait {
+    padding-left: 17%;
+}
+.main_nait_zag {
+    padding-top: 70px;
+}
+.main_nait_zag_text1 {
+    font-family: "Archangelsk", sans-serif;
+    font-size: 62px;
+    font-weight: 400;
+}
+.main_nait_zag_text2 {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #777777;
+    padding-top: 12px;
+    width: 1050px;
+    line-height: 34px
+}
+.main_nait_zag_span {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #52BEDC;
+}
+.main_nait_body {
+    margin-top: 70px;
+    display: flex;
+}
+.main_nait_body_left {
+    display: block;
+}
+.main_nait_body_img2 {
+    margin-top: 32px;
+}
+.main_nait_body_right {
+    display: flex;
+}
+.main_nait_body_img3 {
+   padding-right: 255px;
+}
+
+
+
+
+
+.main_nait_obvodka {
+    margin-top: 70px;
+}
+.main_konkurs {
+    padding-left: 17%;
+    margin-top: -4px;
+    padding-top: 15px;
+    background: black;
+}
+.main_konkurs_zag_glav {
+    display: flex;
+}
+.main_konkurs_zag_glav_text1 {
+    color: white;
+    font-family: "Archangelsk", sans-serif;
+    font-size: 62px;
+    font-weight: 400;
+    margin-top: 55px;
+    margin-left: 20px;
+}
+.main_konkurs_zag_info_text2 {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    width: 1100px;
+    line-height: 34px;
+    margin-top: 25px;
+}
+.main_konkurs_zag_info_span1 {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #52BEDC;
+}
+.main_konkurs_body {
+    display: flex;
+    margin-top: 50px;
+}
+.main_konkurs_body_form {
+    display: block;
+    margin-top: 73px;
+    font-family: "Roboto", sans-serif;
+    width: 460px;
+    height: 383px;
+}
+.main_konkurs_body_form_input1 {
+    width: 460px;
+    height: 35px;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #777777;
+    font-size: 18px;
+    font-weight: 100;
+    color: white;
+    padding-bottom: 19px;
+    padding-top: 19px;
+}
+.main_konkurs_body_form_input2 {
+    width: 460px;
+    height: 35px;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #777777;
+    font-weight: 100;
+    font-size: 18px;
+    color: white;
+    margin-top: 35px;
+    padding-bottom: 19px;
+    padding-top: 19px;
+}
+.main_konkurs_body_form_button {
+    font-weight: 700;
+    font-size: 18px;
+    color: black;
+    margin-top: 35px;
+    width: 192px;
+    height: 59px;
+    background: #F8F200;
+    border: none;
+}
+.main_konkurs_body_form_sogl {
+    display: flex;
+    margin-top: 15px;
+}
+.main_konkurs_body_form_sogl_pers {
+    font-weight: 100;
+    margin-left: 10px;
+    font-size: 12px;
+    color: white;
+}
+.main_konkurs_body_img {
+    margin-left: 32px;
+   
+}
+.main_konkurs_body_img_img2 {
+    margin-left: -100px;
+    
+}
+
+
+
+
+
+
+.main_pogruz {
+    padding-left: 17%;
+    margin-top: -4px;
+    background: #F8F200;
+    display: flex;
+    padding-top: 70px;
+    height: 676px;
+}
+.main_pogruz_left {
+    display: block;
+    width: 624px;
+    height: 536px;
+    text-align: center;
+}
+.main_pogruz_left_img3 {
+    margin-left: 50px;
+}
+.img {
+    display: flex;
+    margin-top: 26px;
+    margin-left: 75px;
+    width: 540px;
+}
+.main_pogruz_right {
+    margin-left: 32px;
+}
+.main_main_pogruz_right_zag_text1 {
+    font-family: "Archangelsk", sans-serif;
+    font-size: 62px;
+    font-weight: 400;
+    width: 600px;
+}
+.main_main_pogruz_right_zag_text2 {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    width: 675px;
+    line-height: 34px;
+}
+.main_pogruz_right_body {
+    display: block;
+    margin-top: -15px;
+}
+.main_pogruz_right_body_cveti {
+    display: flex;
+}
+.main_pogruz_right_body_cveti_text1 {
+    margin-left: 10px;
+}
+.main_pogruz_right_body_chet {
+    margin-top: -15px;
+    display: flex;
+}
+.main_pogruz_right_body_chet_text2 {
+    margin-left: 10px;
+}
+.main_pogruz_right_body_plav {
+    margin-top: -15px;
+    display: flex;
+}
+.main_pogruz_right_body_plav_text3 {
+    margin-left: 10px;
+}
+.main_pogruz_right_body_button {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #F8F200;
+    background: black;
+    width: 194px;
+    height: 59px;
+    border: none;
+    margin-top: 40px;
+}
+
+
+
+
+
+
+
+
+
+.main_kup {
+    display: flex;
+}
+.main_kup_right {
+    padding-top: 70px;
+    padding-left: 32px;
+    background: black;
+    width: 976px;
+    height: 717px;
+}
+.main_kup_right_zag_text1 {
+    font-family: "Archangelsk", sans-serif;
+    font-size: 62px;
+    font-weight: 400;
+    width: 624px;
+    color: white;
+}
+.main_kup_right_vkomp {
+    margin-top: 25px;
+    font-family: "Roboto", sans-serif;
+}
+.main_kup_right_vkomp_text2 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #52BEDC;
+}
+.main_kup_right_vkomp_komplet { 
+    margin-top: -15px;
+}
+.main_kup_right_vkomp_komplet_futlar {
+    display: flex;
+}
+.main_kup_right_vkomp_komplet_futlar_text3 {
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    margin-left: 10px;
+}
+.main_kup_right_vkomp_komplet_code {
+    margin-top: -10px;
+    display: flex;
+}
+.main_kup_right_vkomp_komplet_code_text4 {
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    margin-left: 10px;
+}
+.main_kup_right_vkomp_komplet_sprav {
+    margin-top: -10px;
+    display: flex;
+}
+.main_kup_right_vkomp_komplet_sprav_text5 {
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    margin-left: 10px;
+}
+.main_kup_right_platform {
+    margin-top: 50px;
+}
+.main_kup_right_platform_text1 {
+    font-family: "Roboto", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    color: #52BEDC;
+}
+.main_kup_right_platform_company {
+    margin-top: 25px;
+    display: flex;
+}
+.main_kup_right_platform_company_cmp1 {
+    display: block;
+    width: 62px;
+    height: 133px;
+}
+.main_kup_right_platform_company_cmp1_img2 {
+    margin-top: 48px;
+}
+.main_kup_right_platform_company_cmp2 {
+    display: block;
+    width: 178px;
+    height: 126px;
+    margin-left: 79px;
+}
+.main_kup_right_platform_company_cmp2_img4 {
+    margin-top: 56px;
+}
+
+
+
+
+
+
+.footer {
+    font-family: "Roboto", sans-serif;
+}
+.footer_head {
+    display: flex;
+    background: white;
+    width: 100%;
+    height: 100px;
+    padding-top: 13px;
+    padding-left: 17%;
+}
+.footer_head_left_img2 {
+    margin-left: 15px;
+}
+.footer_head_right {
+    display: flex;
+    margin-top: 15px;
+    margin-left: 391px;
+}
+.footer_head_right_text1 {
+    font-size: 18px;
+    font-weight: 400;
+}
+.footer_head_right_text2 {
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 32px;
+}
+.footer_body {
+    background: black;
+    width: 100%;
+    height: 40px;
+    text-align: center;
+}
+.footer_body_text3 {
+    font-size: 12px;
+    font-weight: 400;
+    color: white;
+    padding-top: 13px;
+}

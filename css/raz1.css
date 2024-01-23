@@ -1,0 +1,247 @@
+@media (max-width: 1600px) {
+    .header_body {
+        margin-left: -575px;
+    }
+    .header_head_nav {
+        margin-left: 800px;
+    }
+}
+
+
+@media (max-width: 1450px) {
+    .header {
+        background-image: url('../img/may.jpg');;
+    }
+    .header_head_nav {
+        margin-left: 700px;
+    }
+}
+
+
+@media (max-width: 1350px) {
+    .header_head_nav {
+        margin-left: 550px;
+    }
+}
+
+
+@media (max-width: 1150px) {
+    .header_head_nav {
+        margin-left: 450px;
+    }
+}
+
+
+@media (max-width: 1024px) {
+    .header {
+        background-image: url('../img/may2.jpg');
+        padding-left: 36px;
+    }
+    .header_head_nav {
+        margin-left: 575px;
+    }
+    .header_body {
+        margin-left: -600px;
+    }
+}
+
+
+
+@media (max-width: 1000px) {
+    .header_head_nav {
+        margin-left: 450px;
+    }
+}
+
+
+
+@media (max-width: 900px) {
+    .header_head_nav {
+        margin-left: 350px;
+    }
+}
+
+
+
+@media (max-width: 760px) {
+    .header_head_img {
+        text-align: center;
+    }
+    .header_body {
+        margin-left: -325px;
+    }
+    .header_head_nav {
+        margin-top: 10px;
+        margin-left: 50%;
+    }
+    .header_header_img_logo {
+        margin-left: 30%;
+    }
+    .header {
+        background-image: url('../img/my3.jpg');
+        padding-left: 36px;
+    }
+}
+
+
+
+@media (max-width: 680px) {
+    .header_body {
+        margin-left: -375px;
+    }
+    .header_head_nav {
+        margin-top: 10px;
+        margin-left: 45%;
+    }
+    .header_header_img_logo {
+        margin-left: 25%;
+    }
+}
+
+
+
+@media (max-width: 610px) {
+    .header_body {
+        width: 570px;
+    height: 300px;
+        background-image: url('../img/kvad2.svg');
+        margin-top: 680px;
+    }
+    .header_head_nav {
+        margin-left: 25%;
+    }
+    .header_header_img_logo {
+        margin-left: 15%;
+    }
+    .header {
+        
+    }
+}
+
+
+
+@media (max-width: 560px) {
+    .header_body {
+        width: 500px;
+        height: 250px;
+        background-image: url('../img/Rectangle 59 (3).svg');
+        margin-top: 680px;
+    }
+    .header_head_nav {
+        margin-left: 15%;
+       
+    }
+    .header_header_img_logo {
+        margin-left: 10%;
+    }
+    .header {
+        height: 950px;
+    }
+    .header_body_text {
+        font-size: 52px;
+        font-weight: 400;
+        padding-top: 0px;
+        padding-left: 50px;
+    }
+    .header_body_button {
+        margin-left: 50px;
+    }
+}
+
+
+@media (max-width: 490px) {
+    .header_body {
+        width: 425px;
+        height: 210px;
+        background-image: url('../img/Rectangle 59 (5).svg');
+        margin-top: 680px;
+    }
+    .header_head_nav {
+        margin-left: 5%;
+       
+    }
+    .header_header_img_logo {
+        margin-left: 0%;
+    }
+    .header {
+        height: 910px;
+    }
+    .header_body_text {
+        font-size: 40px;
+        font-weight: 400;
+        padding-top: 0px;
+        padding-left: 50px;
+    }
+    .header_body_button {
+        width: 244px;
+        height: 60px;
+        font-size: 20px;
+    }
+}
+
+
+
+
+
+@media (max-width: 320px) {
+    .header_body {
+        width: 320px;
+        height: 207px;
+        background-image: url('../img/Rectangle 59 (7).svg');
+        margin-top: 535px;
+        text-align: center;
+        margin-left: -285px;
+    }
+    .header {
+        width: 320px;
+        height: 713px;
+        background-image: url('../img/11 (2).jpg');
+    }
+    .header_body_text {
+        font-size: 30px;
+        font-weight: 400;
+        width: 350px;
+        margin-left: -30px;
+    }
+    .header_body_button {
+        width: 244px;
+        height: 60px;
+        font-size: 20px;
+        margin-top: 10px;
+        margin-left: 0px;
+    }
+    .header_head_nav {
+        margin-left: -50px;
+       
+    }
+    .header_head_nav_youtube {
+       margin-left: 10px;
+    }
+    .header_head_nav_vk {
+       margin-left: 10px;
+
+    }
+    .header_head_nav_facebook {
+       margin-left: 10px;
+    }
+    .header_head_nav_twitter {
+      margin-left: 10px;
+
+    }
+    .header_head_nav_twitch {
+        margin-left: 10px;
+
+    }
+    .header_head_nav_insta {
+        margin-left: 10px;
+
+    }
+    .header_header_img_logo {
+        margin-left: -25px;
+        width: 200px;
+        height: 50px;
+        background-image: url('../img/Cyberpunk_2077_logo 1.svg');
+    }
+    
+}
+

@@ -1,0 +1,125 @@
+@media (max-width: 1500px) {
+    .main_kup_left_img1 {
+        width: 800px;
+        height: 717px;
+    }
+}
+
+
+
+@media (max-width: 1350px) {
+    .main_kup_left_img1 {
+        width: 600px;
+        height: 717px;
+        background-image: url('../img/group/Untitled-1 5.jpg');
+    }
+}
+
+
+
+@media (max-width: 1150px) {
+    .main_kup_left_img1 {
+        width: 450px;
+        height: 717px;
+        background-image: url('../img/group/Untitled-1 5.jpg');
+    }
+}
+
+
+
+@media (max-width: 1024px) {
+    .main_kup_left_img1 {
+        width: 332px;
+        height: 717px;
+        background-image: url('../img/group/Untitled-1 1.jpg');
+    }
+    
+}
+
+
+
+
+@media (max-width: 890px) {
+    .main_kup {
+        display: block;
+    }
+    .main_kup_left_img1 {
+       width: 100%;
+       height: 456px;
+    }
+    .main_kup_right {
+        margin-top: -4px;
+    }
+    .main_kup_right {
+        padding-left: 5%;
+    }
+    
+}
+
+
+
+
+@media (max-width: 550px) {
+    .main_kup_left_img1 {
+        height: 356px;
+     }
+     .main_kup_right_vkomp_komplet_futlar_text3 {
+        font-size: 16px;
+     }
+     .main_kup_right_vkomp_komplet_code_text4 {
+        font-size: 16px;
+     }
+     .main_kup_right_vkomp_komplet_sprav_text5 {
+        font-size: 16px;
+     }
+     .main_kup_right_zag_text1 {
+        font-size: 48px;
+        width: 500px;
+     }
+}
+
+
+
+@media (max-width: 500px) {
+    .main_kup_left_img1 {
+        height: 356px;
+     }
+     .main_kup_right_vkomp_komplet_futlar_text3 {
+        font-size: 16px;
+     }
+     .main_kup_right_vkomp_komplet_code_text4 {
+        font-size: 16px;
+        width: 254px;
+     }
+     .main_kup_right_vkomp_komplet_sprav_text5 {
+        font-size: 16px;
+        width: 254px;
+     }
+     .main_kup_right_zag_text1 {
+        font-size: 40px;
+        width: 400px;
+     }
+}
+
+
+
+
+@media (max-width: 320px) {
+    .main_kup_left_img1 {
+        height: 198px;
+     }
+     
+     .main_kup_right_zag_text1 {
+        font-size: 30px;
+        width: 300px;
+     }
+     .main_kup_right_vkomp_text2 {
+        font-size: 20px;
+     }
+     .main_kup_right_platform_text1 {
+        font-size: 20px;
+     }
+     .main_kup_right_platform_company_cmp2 {
+        margin-left: 39px;
+     }
+}
